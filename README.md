@@ -16,7 +16,7 @@ Overall, there were more campaigns that were successful by launch date than ther
 ### Analysis of Outcomes Based on Goals
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95720986/146844618-3000824a-51db-414a-aea0-658cd83d50ca.png)
 
-When goals were 
+When goals were between $25,000 and $35,000 or greater than $45,000 the likelihood of having a successful campaign was poor.  While there was no range that was 100% successful there was a range that failed 100% of the time.  Louise should avoid campaigns with a goal of $45,000 to $49,999.  Campaigns that needed less than $5000 in funding performed very well.  
 
 ### Challenges and Difficulties Encountered
 While creating the graph for outcomes based on launch date, I had a little trouble with sorting and couldn't remember if 'Sort Z to A' was ascending or decending, so I had to do the filter a couple times in order to make sure that it displayed as requested.  When the rows originally showed with more than just the month, I relied on what I had learned during class and dragged the unwanted date categories out of the pivot table fields to only leave month.  This gave me the rows and columns as requested and I was able to create a chart that looked like the example.
@@ -24,3 +24,11 @@ While creating the graph for outcomes based on launch date, I had a little troub
 While creating the formulas for outcomes based on goal, I ran into some trouble trying to figure out where the second part of the less than argument was in relation to the rest of the formula.  I was unsure if it made a difference.  The formula I wrote gave me the results I was looking for, so I copied the formula and changed the numbers for the goals in each cell instead of writing it new each time to minimize the risk of making a mistake.
 
 ## Results
+Louise should continue to campaign in the month of May.
+Louise should avoid campaigns in December as that is the only month where the number of failed and canceled campaigns combined were greater than the number of successful campaigns.
+
+Goals should not be set for $45,000 or greater.
+
+Some limitations of this dataset include not knowing how many people were approached for a donation and refused.  Who are the people that didn't donate?  Could you approach them differently or with a different parent or sub category and they would be more inclined to donate?  Are the same people donating all the time?  How are people being asked for donations? Email? Telephone calls?  Mailers?  Analyzing what way people prefer to be approached could be beneficial.
+
+A graph that compares the months of a successful campaign to whether the goal was reached or not would help determine which months you should attempt campaigns with a higher goal and which months you should campaign for projects that have a lower goal.  
